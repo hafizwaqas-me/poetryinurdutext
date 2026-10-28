@@ -1,0 +1,95 @@
+# Poetry in Urdu Text
+
+> Best collection of Urdu poetry with interactive features. Read, copy, download, and share beautiful Urdu poetry.
+
+## About This Site
+
+Poetry in Urdu Text is the largest collection of Urdu poetry available online. We feature classical and contemporary poems, ghazals, and couplets from legendary poets like Allama Iqbal, Mirza Ghalib, and Faiz Ahmed Faiz.
+
+## Main Categories
+
+### Sad Poetry (اداس شاعری)
+Heart-touching sad poetry expressing emotions of heartbreak, loss, and melancholy.
+URL: /sad-poetry/
+
+### Urdu Quotes (اردو اقوال)
+Inspiring and motivational quotes in Urdu about life, love, and wisdom.
+URL: /urdu-quotes/
+
+### Urdu Poetry (اردو شاعری)
+Classic and contemporary Urdu poetry featuring ghazals and nazms.
+URL: /urdu-poetry/
+
+### Two Lines Poetry (دو لائن شاعری)
+Short two-line poetry perfect for social media status updates.
+URL: /two-lines-poetry/
+
+### Allama Iqbal Poetry (علامہ اقبال)
+Complete collection of poetry by the philosopher-poet Allama Muhammad Iqbal.
+URL: /allama-iqbal/
+
+### Mirza Ghalib Poetry (مرزا غالب)
+Famous ghazals and verses by the master poet Mirza Ghalib.
+URL: /mirza-ghalib/
+
+## Featured Poets
+
+### Allama Muhammad Iqbal (1877-1938)
+Known as "Shair-e-Mashriq" (Poet of the East), Iqbal was a philosopher-poet whose works inspire self-improvement and spiritual awakening.
+
+### Mirza Asadullah Khan Ghalib (1797-1869)
+One of the greatest Urdu and Persian poets, famous for philosophical ghazals.
+
+### Faiz Ahmed Faiz (1911-1984)
+Revolutionary poet known for combining romantic imagery with social consciousness.
+
+## Interactive Features
+
+- **Copy**: Copy any poetry to clipboard with one click
+- **Download**: Save poetry as beautiful PNG images with watermark
+- **Share**: Share directly to WhatsApp, Facebook, Twitter
+- **Color Themes**: 8 background color options for each card
+- **Dark Mode**: Toggle between light and dark themes
+- **Search**: Find poetry by keywords
+
+## Content Structure
+
+Each poetry post contains:
+- Urdu text in Jameel Noori Nastaleeq font
+- Poet attribution (when known)
+- Interactive action buttons
+- Related poetry suggestions
+
+## How to Use
+
+1. Browse categories on the homepage
+2. Click any category to see all poetry
+3. Use color buttons to change card background
+4. Click Copy to copy text to clipboard
+5. Click Save to download as image
+6. Click Share to share on social media
+
+## Contact Information
+
+- Website: https://poetryinurdutext.com
+- Facebook: https://facebook.com/poetryinurdutext
+- Instagram: https://instagram.com/urdusheroshayari
+- YouTube: https://youtube.com/@PoetryinUrduText
+- WhatsApp Group: Available on website
+
+## API Access
+
+This is a static website. Content is managed via Markdown files and built as static HTML pages.
+
+## Language Support
+
+- Primary: Urdu (اردو)
+- Navigation: English
+- RTL Support: Yes
+
+## Technical Details
+
+- Framework: Next.js 16
+- Rendering: Static Site Generation (SSG)
+- Typography: Jameel Noori Nastaleeq, Noto Nastaliq Urdu
+- Features: PWA-ready, SEO optimized
