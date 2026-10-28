@@ -1,8 +1,6 @@
 ---
-title: Love Poetry in Urdu Text
-description: Love poetry in Urdu is about dil, mohabbat, wafaa and yaad. These
-two-line verses are written for readers who want a short, sincere line to
-share with someone t
+title: 'Love Poetry in Urdu Text'
+description: 'Love poetry in Urdu is about dil, mohabbat, wafaa and yaad. These two-line verses are written for readers who want a short, sincere line to share with...'
 poet: Poetry in Urdu Text
 date: 2026-10-28
 featured: false

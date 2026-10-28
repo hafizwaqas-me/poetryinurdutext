@@ -1,8 +1,6 @@
 ---
-title: Sad Poetry in Urdu Text Copy Paste
-description: Sad poetry in Urdu is about dard, tanhai, judai, khamoshi and yaad.
-Readers use these short two-line verses to copy and paste for WhatsApp status,
-SMS and perso
+title: 'Sad Poetry in Urdu Text Copy Paste'
+description: 'Sad poetry in Urdu is about dard, tanhai, judai, khamoshi and yaad. Readers use these short two-line verses to copy and paste for WhatsApp status, SMS and...'
 poet: Poetry in Urdu Text
 date: 2026-10-28
 featured: false

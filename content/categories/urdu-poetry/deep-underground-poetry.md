@@ -1,8 +1,6 @@
 ---
-title: Deep Underground Poetry
-description: Deep poetry is about thoughts that are not said out loud: silence,
-depth, time, memory and hope in darkness. These verses are written for
-readers who like refle
+title: 'Deep Underground Poetry'
+description: 'Deep poetry is about thoughts that are not said out loud: silence, depth, time, memory and hope in darkness. These verses are written for readers who like...'
 poet: Poetry in Urdu Text
 date: 2026-10-28
 featured: false

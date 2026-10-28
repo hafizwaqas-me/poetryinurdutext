@@ -1,8 +1,6 @@
 ---
-title: 2 Line Urdu Poetry Copy Paste
-description: Two-line Urdu poetry is the most shared format on mobile: one complete
-thought in two lines, easy to copy, easy to paste, easy to use as a status.
-This collecti
+title: '2 Line Urdu Poetry Copy Paste'
+description: 'Two-line Urdu poetry is the most shared format on mobile: one complete thought in two lines, easy to copy, easy to paste, easy to use as a status. This...'
 poet: Poetry in Urdu Text
 date: 2026-10-28
 featured: false

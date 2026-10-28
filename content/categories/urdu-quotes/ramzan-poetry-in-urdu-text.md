@@ -1,8 +1,6 @@
 ---
-title: Ramzan Poetry in Urdu Text
-description: Ramzan is the month of fasting, patience, self-control, forgiveness and
-Quran. In Urdu poetry, fasting is often described as a way for the heart to
-learn patien
+title: 'Ramzan Poetry in Urdu Text'
+description: 'Ramzan is the month of fasting, patience, self-control, forgiveness and Quran. In Urdu poetry, fasting is often described as a way for the heart to learn...'
 poet: Poetry in Urdu Text
 date: 2026-10-28
 featured: false

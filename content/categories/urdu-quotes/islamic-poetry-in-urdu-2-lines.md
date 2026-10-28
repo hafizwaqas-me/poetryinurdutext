@@ -1,8 +1,6 @@
 ---
-title: Islamic Poetry in Urdu 2 Lines
-description: Islamic poetry in two lines is used for daily reminders: iman, sabr,
-shukr, dua, namaz and Quran. These short verses are easy to read, easy to
-remember and easy
+title: 'Islamic Poetry in Urdu 2 Lines'
+description: 'Islamic poetry in two lines is used for daily reminders: iman, sabr, shukr, dua, namaz and Quran. These short verses are easy to read, easy to remember and...'
 poet: Poetry in Urdu Text
 date: 2026-10-28
 featured: false

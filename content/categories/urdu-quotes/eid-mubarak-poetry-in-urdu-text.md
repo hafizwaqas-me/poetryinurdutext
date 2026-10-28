@@ -1,8 +1,6 @@
 ---
-title: Eid Mubarak Poetry in Urdu Text
-description: Eid poetry is about happiness, thankfulness, family gathering and the
-sight of the chaand. After Ramzan, Eid brings people together for prayers,
-food, laughter 
+title: 'Eid Mubarak Poetry in Urdu Text'
+description: 'Eid poetry is about happiness, thankfulness, family gathering and the sight of the chaand. After Ramzan, Eid brings people together for prayers, food,...'
 poet: Poetry in Urdu Text
 date: 2026-10-28
 featured: false
