@@ -24,7 +24,7 @@ export default async function sitemap() {
     // Categories
     const categories = getAllCategories();
     const categoryPages = categories.map(category => ({
-        url: `${baseUrl}/${category.slug}`,
+        url: `${baseUrl}/category/${category.slug}`,
         lastModified: new Date().toISOString(),
         changeFrequency: 'daily',
         priority: 0.9,
@@ -34,7 +34,7 @@ export default async function sitemap() {
     const postPages = categories.flatMap(category => {
         const posts = getPostsByCategory(category.slug);
         return posts.map(post => ({
-            url: `${baseUrl}/${category.slug}/${post.slug}`,
+            url: `${baseUrl}/${post.slug}`,
             lastModified: post.date,
             changeFrequency: 'weekly',
             priority: 0.7,
